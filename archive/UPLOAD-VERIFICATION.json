@@ -1,0 +1,126 @@
+{
+  "repository": "lionelchenlr-del/DragonStory",
+  "version": 9,
+  "date": "2026-11-16",
+  "releaseTag": "v9-2026-11-16",
+  "releaseId": 447119365,
+  "sourceImportCommit": "fe9b3a96b3eea138f1ba5bc7d76676b54e657a32",
+  "sourceImportRun": "https://github.com/lionelchenlr-del/DragonStory/actions/runs/43882035328",
+  "sourceImportSucceeded": true,
+  "sourceSnapshotFiles": 850,
+  "productionLuauFiles": 641,
+  "totalLuauFilesIncludingTests": 653,
+  "nativeAssetsRestoredAndVerifiedLocally": 3,
+  "localMarkdownLinksVerified": true,
+  "allReleaseAssetSizesAndSHA256Match": true,
+  "assets": [
+    {
+      "name": "ArtAndLoot-Design-v2.zip",
+      "bytes": 8895894,
+      "sha256": "16f3a067fd688d973aec11945a7f9e17874301a76043d49f5a9fbf1a96a79dec",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/ArtAndLoot-Design-v2.zip"
+    },
+    {
+      "name": "DragonAwakening-ApprovedArt.zip",
+      "bytes": 50387925,
+      "sha256": "eefe7e4d31fc1a7b41af5450de09a15414534cd4603b7773a6310a79d592cf6f",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-ApprovedArt.zip"
+    },
+    {
+      "name": "DragonAwakening-Art-v7.zip",
+      "bytes": 193437676,
+      "sha256": "c6237cdd09739a2cb6d73fae27e1c0815efcdf9f469ab6138d4f7da63a84a97a",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-Art-v7.zip"
+    },
+    {
+      "name": "DragonAwakening-Atelier-v9.zip",
+      "bytes": 295853040,
+      "sha256": "dd59079f265d09a4b621ff423f7fd69230d83c68a1a71cdc32652d2bc4f0962b",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-Atelier-v9.zip"
+    },
+    {
+      "name": "DragonAwakening-ConceptBuild.zip",
+      "bytes": 5038498,
+      "sha256": "c55bacea6ae1f6c3fb37473bc9b23cb93ddd3094f6246d589c5fe9454497012c",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-ConceptBuild.zip"
+    },
+    {
+      "name": "DragonAwakening-DesignConcepts.zip",
+      "bytes": 8047150,
+      "sha256": "2ecad809f1fb7f92032ccc73ab85d292dd3bc13c12242047e23c9af92ddbf6d0",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-DesignConcepts.zip"
+    },
+    {
+      "name": "DragonAwakening-History-Supplement.zip",
+      "bytes": 155925939,
+      "sha256": "19bc48d9ea0b91d9a86a13b7429860f3caab9696199bc8ce4fbaa265308a128f",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-History-Supplement.zip"
+    },
+    {
+      "name": "DragonAwakening-Narrative-v1.0.docx",
+      "bytes": 77555,
+      "sha256": "9ee0ba0e7f6627a3aa385f2483b8dc495e5b739184ef083fee930aef4dedb52b",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-Narrative-v1.0.docx"
+    },
+    {
+      "name": "DragonAwakening-Refined-v8.zip",
+      "bytes": 216652804,
+      "sha256": "32a3ce449d678df1865f47e8cea54a7293718aaee71f1c58772f271981ff8945",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-Refined-v8.zip"
+    },
+    {
+      "name": "DragonAwakening-SevenIslands-v5.zip",
+      "bytes": 203200401,
+      "sha256": "68f90ded96dec6b1d174586695465deb4160fac9b3905d733f490b9ededed528",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-SevenIslands-v5.zip"
+    },
+    {
+      "name": "DragonAwakening-SevenIslands-v6.zip",
+      "bytes": 215518251,
+      "sha256": "e24b72c4753d8942aa2932b3669c9b3d26601767d3198431892f1a8cf1bfe079",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening-SevenIslands-v6.zip"
+    },
+    {
+      "name": "DragonAwakening.zip",
+      "bytes": 544890,
+      "sha256": "f321a3d89e458ad54acfc0f62a205659043e2ea060fdc5cdfc0ef15d48dca532",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonAwakening.zip"
+    },
+    {
+      "name": "DragonStory-Source-v9.zip",
+      "bytes": 153516166,
+      "sha256": "19f853386df50fc86a2404bb833f185647a390faf3d5c57cc46f42ef34040fdb",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/DragonStory-Source-v9.zip"
+    },
+    {
+      "name": "MonsterLoot-Design-v4-Level800.zip",
+      "bytes": 47603618,
+      "sha256": "898f51b81246f91394111282f1a590ddd5f763818da3bb8197fff30fab469c25",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/MonsterLoot-Design-v4-Level800.zip"
+    },
+    {
+      "name": "SHA256SUMS.txt",
+      "bytes": 1650,
+      "sha256": "232dbe2e06f29cbd2c0c4a8615a50589e316352c2b750b92f64e16f27fae4fdd",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/SHA256SUMS.txt"
+    },
+    {
+      "name": "SkyIslands-Design-v1.zip",
+      "bytes": 14781141,
+      "sha256": "4e1f4196dc00f0b2ae9dd7c9520ffcead2b87702ee2dc48d9a86ee8adb89c8ef",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/SkyIslands-Design-v1.zip"
+    },
+    {
+      "name": "SkyIslands-Design-v2-Level800.zip",
+      "bytes": 13879453,
+      "sha256": "62e3fae8113d92f5acf6961ee4902923cff9faf866efe2c3e84dfd8929a9b818",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/SkyIslands-Design-v2-Level800.zip"
+    },
+    {
+      "name": "SkyIslands-Detailed-v3.zip",
+      "bytes": 25233052,
+      "sha256": "b34e9330390ab483e6dd67720d2b7591e9c9ed00122862cecd668fd0089cd2fe",
+      "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/untagged-643e54d4efc3ee44e869/SkyIslands-Detailed-v3.zip"
+    }
+  ]
+}

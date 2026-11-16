@@ -23,8 +23,14 @@ GitHub 的 Code → Download ZIP 僅下載儲存庫內容。需要完整 `.rbxl`
 | [DragonAwakening-History-Supplement.zip](https://github.com/lionelchenlr-del/DragonStory/releases/download/v9-2026-11-16/DragonAwakening-History-Supplement.zip) | 148.70 | `19bc48d9ea0b91d9a86a13b7429860f3caab9696199bc8ce4fbaa265308a128f` |
 | [DragonAwakening-Narrative-v1.0.docx](https://github.com/lionelchenlr-del/DragonStory/releases/download/v9-2026-11-16/DragonAwakening-Narrative-v1.0.docx) | 0.07 | `9ee0ba0e7f6627a3aa385f2483b8dc495e5b739184ef083fee930aef4dedb52b` |
 
+| [DragonStory-Source-v9.zip](https://github.com/lionelchenlr-del/DragonStory/releases/download/v9-2026-11-16/DragonStory-Source-v9.zip) | 146.40 | `19f853386df50fc86a2404bb833f185647a390faf3d5c57cc46f42ef34040fdb` |
+
 `DragonAwakening-History-Supplement.zip` 保存原歷史資料夾中未與既有 ZIP 完全相同的四個額外檔案；Word 另有獨立附件及 story 目錄版本。歷史 ZIP 與補充包合計涵蓋原 outputs 的有效交付內容，排除系統垃圾檔及暫存。
 
 下載後可用 macOS／Linux 的 `shasum -a 256 檔名`，或 PowerShell 的 `Get-FileHash 檔名 -Algorithm SHA256` 核對。[純文字校驗表](SHA256SUMS.txt) 與 [機器可讀索引](ARTIFACTS.json) 同步保存。
 
 版本用途見 [進度與版本沿革](../docs/進度與版本.md)。不要將舊版的等級、裝備或存檔設定直接套進新版。
+
+Source ZIP 為首次匯入的 850 檔原始碼快照，不包含匯入工作流程和之後補充的索引本身；持續更新的版本請以 main 分支為準。
+
+本次 18 個附件的遠端大小及 SHA-256 已全部與本機原檔比對一致，紀錄見 [上傳驗證](UPLOAD-VERIFICATION.json)。首次匯入工作流程已完成，並自 main 移除，避免日後誤觸覆蓋；製作歷史仍保留於 Git 提交與 Actions 紀錄。
