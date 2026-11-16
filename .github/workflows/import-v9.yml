@@ -1,0 +1,51 @@
+name: Import verified v9 source archive
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: dragonstory-initial-import
+  cancel-in-progress: false
+jobs:
+  import:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Require an empty project baseline
+        run: |
+          if test -f game/default.project.json; then
+            echo 'Project already imported. Use normal Git changes instead of replaying this initial import.'
+            exit 1
+          fi
+      - name: Download and verify the fixed source archive
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: lionelchenlr-del/DragonStory
+        run: |
+          gh release download v9-2026-11-16 --pattern DragonStory-Source-v9.zip --dir "$RUNNER_TEMP"
+          cd "$RUNNER_TEMP"
+          echo '19f853386df50fc86a2404bb833f185647a390faf3d5c57cc46f42ef34040fdb  DragonStory-Source-v9.zip' | sha256sum -c -
+      - name: Import source and documentation
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import os, zipfile
+          archive = Path(os.environ['RUNNER_TEMP']) / 'DragonStory-Source-v9.zip'
+          with zipfile.ZipFile(archive) as source:
+              for entry in source.infolist():
+                  p = Path(entry.filename)
+                  if p.is_absolute() or '..' in p.parts or '.git' in p.parts or '.github' in p.parts:
+                      raise SystemExit('Unsafe archive member')
+                  if entry.file_size >= 100 * 1024 * 1024:
+                      raise SystemExit('Native release assets do not belong in Git')
+              source.extractall('.')
+          PY
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add --all
+          git commit -m 'feat: import complete Dragon Awakening v9 source, art and narrative'
+          git push origin HEAD:main
