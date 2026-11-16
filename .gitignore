@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.lock
+*.log
+.env
+.env.*
+!.env.example
+game/DragonAwakening-Atelier-v9.rbxl
+game/src/ReplicatedStorage/DragonShared/BakedArt.rbxmx
+game/src/Workspace/SkyIslands.rbxmx
+game/tests/.travel-run.luau
+.cache/
+dist/

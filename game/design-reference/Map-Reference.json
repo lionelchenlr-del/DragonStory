@@ -1,0 +1,1947 @@
+{
+  "version": 3,
+  "status": "design_only_not_applied_to_studio",
+  "maxLevel": 800,
+  "coordinateConvention": {
+    "world": "Roblox X,Y,Z in studs",
+    "map": "North is -Z; image u east, v south; each POI u,v is percent of design bounding rectangle",
+    "local": "X=(u/100-0.5)*width; Z=(v/100-0.5)*depth; Y is proposed height above center base"
+  },
+  "islands": [
+    {
+      "id": "grassland",
+      "n": 1,
+      "name": "天空草原島",
+      "levels": [
+        1,
+        50
+      ],
+      "size": [
+        1600,
+        1400
+      ],
+      "center": [
+        -3400,
+        0,
+        3200
+      ],
+      "palette": "emerald grass, warm timber, ivory and jade accents",
+      "shape": "broad asymmetrical kidney-shaped island with open meadows, terraced hills and a narrow blue stream ending in an eastern waterfall",
+      "pois": [
+        [
+          "驛龍降落場",
+          50,
+          84,
+          "landing",
+          0
+        ],
+        [
+          "新手村店鋪",
+          26,
+          69,
+          "safe",
+          0
+        ],
+        [
+          "史萊姆草原",
+          70,
+          70,
+          "combat",
+          0
+        ],
+        [
+          "風車丘陵",
+          74,
+          43,
+          "combat",
+          50
+        ],
+        [
+          "礦石洞窟",
+          22,
+          30,
+          "cave",
+          45
+        ],
+        [
+          "草原試煉場",
+          50,
+          20,
+          "boss",
+          90
+        ],
+        [
+          "採集林地",
+          27,
+          47,
+          "resource",
+          20
+        ],
+        [
+          "瀑布祕境",
+          83,
+          26,
+          "secret",
+          50
+        ]
+      ],
+      "route": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "branches": [
+        [
+          2,
+          7,
+          5
+        ],
+        [
+          4,
+          8,
+          6
+        ]
+      ],
+      "terrain": "Small cozy timber/ivory starter village at southwest, jade-roof dragon shop within village. Wide low-poly meadows east with mint slimes, windmills on eastern hill, cave mouth northwest rocky ridge, round grassy boss arena on north plateau. Trees sparsely cluster west, waterfall secret ledge northeast but still attached to island. Main paths form an explorable loop, no giant palace covering terrain.",
+      "encounters": [
+        "Lv.1–20 史萊姆草原",
+        "Lv.21–35 風車丘陵",
+        "Lv.36–45 礦石洞窟",
+        "Lv.46–50 草原試煉場"
+      ],
+      "cave": [
+        "入口礦區",
+        "水晶岔路",
+        "遺跡小室"
+      ],
+      "coordinates": [
+        {
+          "number": 1,
+          "name": "驛龍降落場",
+          "role": "landing",
+          "localStuds": [
+            0,
+            0,
+            476
+          ],
+          "worldStuds": [
+            -3400,
+            0,
+            3676
+          ]
+        },
+        {
+          "number": 2,
+          "name": "新手村店鋪",
+          "role": "safe",
+          "localStuds": [
+            -384,
+            0,
+            266
+          ],
+          "worldStuds": [
+            -3784,
+            0,
+            3466
+          ]
+        },
+        {
+          "number": 3,
+          "name": "史萊姆草原",
+          "role": "combat",
+          "localStuds": [
+            320,
+            0,
+            280
+          ],
+          "worldStuds": [
+            -3080,
+            0,
+            3480
+          ]
+        },
+        {
+          "number": 4,
+          "name": "風車丘陵",
+          "role": "combat",
+          "localStuds": [
+            384,
+            50,
+            -98
+          ],
+          "worldStuds": [
+            -3016,
+            50,
+            3102
+          ]
+        },
+        {
+          "number": 5,
+          "name": "礦石洞窟",
+          "role": "cave",
+          "localStuds": [
+            -448,
+            45,
+            -280
+          ],
+          "worldStuds": [
+            -3848,
+            45,
+            2920
+          ]
+        },
+        {
+          "number": 6,
+          "name": "草原試煉場",
+          "role": "boss",
+          "localStuds": [
+            0,
+            90,
+            -420
+          ],
+          "worldStuds": [
+            -3400,
+            90,
+            2780
+          ]
+        },
+        {
+          "number": 7,
+          "name": "採集林地",
+          "role": "resource",
+          "localStuds": [
+            -368,
+            20,
+            -42
+          ],
+          "worldStuds": [
+            -3768,
+            20,
+            3158
+          ]
+        },
+        {
+          "number": 8,
+          "name": "瀑布祕境",
+          "role": "secret",
+          "localStuds": [
+            528,
+            50,
+            -336
+          ],
+          "worldStuds": [
+            -2872,
+            50,
+            2864
+          ]
+        }
+      ],
+      "plannedServices": [
+        {
+          "key": "Q",
+          "name": "主線任務 NPC：龍騎教官",
+          "localStuds": [
+            -408,
+            0,
+            248
+          ]
+        },
+        {
+          "key": "S",
+          "name": "金幣商人",
+          "localStuds": [
+            -360,
+            0,
+            248
+          ]
+        },
+        {
+          "key": "W",
+          "name": "裝備工作台",
+          "localStuds": [
+            -408,
+            0,
+            284
+          ]
+        },
+        {
+          "key": "R",
+          "name": "復活祭壇",
+          "localStuds": [
+            -360,
+            0,
+            284
+          ]
+        }
+      ]
+    },
+    {
+      "id": "elven_forest",
+      "n": 2,
+      "name": "精靈森林島",
+      "levels": [
+        51,
+        120
+      ],
+      "size": [
+        1800,
+        1600
+      ],
+      "center": [
+        0,
+        150,
+        3200
+      ],
+      "palette": "deep jade, turquoise, golden wood",
+      "shape": "long pear-shaped wooded island with a central giant world tree and dense groves, tiered forest clearings, winding shallow river",
+      "pois": [
+        [
+          "森林降落場",
+          67,
+          84,
+          "landing",
+          0
+        ],
+        [
+          "精靈補給村",
+          43,
+          70,
+          "safe",
+          20
+        ],
+        [
+          "螢光淺林",
+          22,
+          61,
+          "combat",
+          20
+        ],
+        [
+          "古樹密林",
+          71,
+          43,
+          "combat",
+          65
+        ],
+        [
+          "樹根洞窟",
+          25,
+          28,
+          "cave",
+          45
+        ],
+        [
+          "森靈試煉場",
+          49,
+          17,
+          "boss",
+          100
+        ],
+        [
+          "世界樹採集區",
+          46,
+          44,
+          "resource",
+          45
+        ],
+        [
+          "樹冠祕壇",
+          80,
+          23,
+          "secret",
+          100
+        ]
+      ],
+      "route": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "branches": [
+        [
+          2,
+          7,
+          5
+        ],
+        [
+          4,
+          8,
+          6
+        ]
+      ],
+      "terrain": "Cozy elven wood village southwest of central world tree, treehouse roofs visible from above without hiding paths. Bright shallow grove southwest, thick ancient woodland east. Root cave northwest, ruined circular guardian arena north, attached high tree-canopy secret northeast accessible by on-island ramps, resource clearing around world tree. Many terrain-defined loops and side trails, not a palace model.",
+      "encounters": [
+        "Lv.51–70 螢光淺林",
+        "Lv.71–95 古樹密林",
+        "Lv.96–110 樹根洞窟",
+        "Lv.111–120 森靈試煉場"
+      ],
+      "cave": [
+        "樹根入口",
+        "螢光菌室",
+        "古樹石門"
+      ],
+      "coordinates": [
+        {
+          "number": 1,
+          "name": "森林降落場",
+          "role": "landing",
+          "localStuds": [
+            306,
+            0,
+            544
+          ],
+          "worldStuds": [
+            306,
+            150,
+            3744
+          ]
+        },
+        {
+          "number": 2,
+          "name": "精靈補給村",
+          "role": "safe",
+          "localStuds": [
+            -126,
+            20,
+            320
+          ],
+          "worldStuds": [
+            -126,
+            170,
+            3520
+          ]
+        },
+        {
+          "number": 3,
+          "name": "螢光淺林",
+          "role": "combat",
+          "localStuds": [
+            -504,
+            20,
+            176
+          ],
+          "worldStuds": [
+            -504,
+            170,
+            3376
+          ]
+        },
+        {
+          "number": 4,
+          "name": "古樹密林",
+          "role": "combat",
+          "localStuds": [
+            378,
+            65,
+            -112
+          ],
+          "worldStuds": [
+            378,
+            215,
+            3088
+          ]
+        },
+        {
+          "number": 5,
+          "name": "樹根洞窟",
+          "role": "cave",
+          "localStuds": [
+            -450,
+            45,
+            -352
+          ],
+          "worldStuds": [
+            -450,
+            195,
+            2848
+          ]
+        },
+        {
+          "number": 6,
+          "name": "森靈試煉場",
+          "role": "boss",
+          "localStuds": [
+            -18,
+            100,
+            -528
+          ],
+          "worldStuds": [
+            -18,
+            250,
+            2672
+          ]
+        },
+        {
+          "number": 7,
+          "name": "世界樹採集區",
+          "role": "resource",
+          "localStuds": [
+            -72,
+            45,
+            -96
+          ],
+          "worldStuds": [
+            -72,
+            195,
+            3104
+          ]
+        },
+        {
+          "number": 8,
+          "name": "樹冠祕壇",
+          "role": "secret",
+          "localStuds": [
+            540,
+            100,
+            -432
+          ],
+          "worldStuds": [
+            540,
+            250,
+            2768
+          ]
+        }
+      ],
+      "plannedServices": [
+        {
+          "key": "Q",
+          "name": "主線任務 NPC：巡林者",
+          "localStuds": [
+            -150,
+            20,
+            302
+          ]
+        },
+        {
+          "key": "S",
+          "name": "金幣商人",
+          "localStuds": [
+            -102,
+            20,
+            302
+          ]
+        },
+        {
+          "key": "W",
+          "name": "裝備工作台",
+          "localStuds": [
+            -150,
+            20,
+            338
+          ]
+        },
+        {
+          "key": "R",
+          "name": "復活祭壇",
+          "localStuds": [
+            -102,
+            20,
+            338
+          ]
+        }
+      ]
+    },
+    {
+      "id": "volcano",
+      "n": 3,
+      "name": "熔岩火山島",
+      "levels": [
+        121,
+        220
+      ],
+      "size": [
+        2000,
+        1800
+      ],
+      "center": [
+        3400,
+        300,
+        0
+      ],
+      "palette": "black basalt, lava orange, weathered gold",
+      "shape": "rugged crescent-shaped SINGLE continuous island with a massive northern volcano, safe basalt paths around lava gullies",
+      "pois": [
+        [
+          "火山降落場",
+          28,
+          83,
+          "landing",
+          0
+        ],
+        [
+          "熔岩前哨站",
+          25,
+          63,
+          "safe",
+          25
+        ],
+        [
+          "焦土幼龍區",
+          62,
+          72,
+          "combat",
+          20
+        ],
+        [
+          "黑曜石高地",
+          75,
+          46,
+          "combat",
+          100
+        ],
+        [
+          "熔火礦洞",
+          24,
+          30,
+          "cave",
+          80
+        ],
+        [
+          "火山龍王巢",
+          50,
+          18,
+          "boss",
+          170
+        ],
+        [
+          "黑曜石礦場",
+          45,
+          46,
+          "resource",
+          65
+        ],
+        [
+          "餘燼祕庫",
+          83,
+          26,
+          "secret",
+          110
+        ]
+      ],
+      "route": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "branches": [
+        [
+          2,
+          7,
+          5
+        ],
+        [
+          4,
+          8,
+          6
+        ]
+      ],
+      "terrain": "Small fortified basalt outpost west, not giant central castle. Broad charred field southeast with black/orange young magma drakes; eastern multi-level obsidian highland; mine mouth northwest. Volcano crater boss arena north reached along safe rim paths around west; lava channels dangerous yet do not bisect island into separate islands. Secret vault northeast, mined resource bowl central. Traversable ramps and clear alternative loops within island.",
+      "encounters": [
+        "Lv.121–150 焦土幼龍區",
+        "Lv.151–185 黑曜石高地",
+        "Lv.186–205 熔火礦洞",
+        "Lv.206–220 火山龍王巢"
+      ],
+      "cave": [
+        "玄武岩入口",
+        "熔火礦脈",
+        "鍛造遺室"
+      ],
+      "coordinates": [
+        {
+          "number": 1,
+          "name": "火山降落場",
+          "role": "landing",
+          "localStuds": [
+            -440,
+            0,
+            594
+          ],
+          "worldStuds": [
+            2960,
+            300,
+            594
+          ]
+        },
+        {
+          "number": 2,
+          "name": "熔岩前哨站",
+          "role": "safe",
+          "localStuds": [
+            -500,
+            25,
+            234
+          ],
+          "worldStuds": [
+            2900,
+            325,
+            234
+          ]
+        },
+        {
+          "number": 3,
+          "name": "焦土幼龍區",
+          "role": "combat",
+          "localStuds": [
+            240,
+            20,
+            396
+          ],
+          "worldStuds": [
+            3640,
+            320,
+            396
+          ]
+        },
+        {
+          "number": 4,
+          "name": "黑曜石高地",
+          "role": "combat",
+          "localStuds": [
+            500,
+            100,
+            -72
+          ],
+          "worldStuds": [
+            3900,
+            400,
+            -72
+          ]
+        },
+        {
+          "number": 5,
+          "name": "熔火礦洞",
+          "role": "cave",
+          "localStuds": [
+            -520,
+            80,
+            -360
+          ],
+          "worldStuds": [
+            2880,
+            380,
+            -360
+          ]
+        },
+        {
+          "number": 6,
+          "name": "火山龍王巢",
+          "role": "boss",
+          "localStuds": [
+            0,
+            170,
+            -576
+          ],
+          "worldStuds": [
+            3400,
+            470,
+            -576
+          ]
+        },
+        {
+          "number": 7,
+          "name": "黑曜石礦場",
+          "role": "resource",
+          "localStuds": [
+            -100,
+            65,
+            -72
+          ],
+          "worldStuds": [
+            3300,
+            365,
+            -72
+          ]
+        },
+        {
+          "number": 8,
+          "name": "餘燼祕庫",
+          "role": "secret",
+          "localStuds": [
+            660,
+            110,
+            -432
+          ],
+          "worldStuds": [
+            4060,
+            410,
+            -432
+          ]
+        }
+      ],
+      "plannedServices": [
+        {
+          "key": "Q",
+          "name": "主線任務 NPC：前哨指揮官",
+          "localStuds": [
+            -524,
+            25,
+            216
+          ]
+        },
+        {
+          "key": "S",
+          "name": "金幣商人",
+          "localStuds": [
+            -476,
+            25,
+            216
+          ]
+        },
+        {
+          "key": "W",
+          "name": "裝備工作台",
+          "localStuds": [
+            -524,
+            25,
+            252
+          ]
+        },
+        {
+          "key": "R",
+          "name": "復活祭壇",
+          "localStuds": [
+            -476,
+            25,
+            252
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ice_crystal",
+      "n": 4,
+      "name": "冰晶天空島",
+      "levels": [
+        221,
+        350
+      ],
+      "size": [
+        2000,
+        1800
+      ],
+      "center": [
+        0,
+        500,
+        0
+      ],
+      "palette": "icy cyan, snow white, silver and pale gold",
+      "shape": "fan-shaped glacier island, snow terraces and deep blue frozen lake, ice cliffs and crystal groves",
+      "pois": [
+        [
+          "冰晶降落場",
+          50,
+          85,
+          "landing",
+          0
+        ],
+        [
+          "雪境補給村",
+          24,
+          67,
+          "safe",
+          15
+        ],
+        [
+          "凍湖飛龍區",
+          69,
+          69,
+          "combat",
+          0
+        ],
+        [
+          "冰晶峽谷",
+          76,
+          42,
+          "combat",
+          90
+        ],
+        [
+          "寒霜洞窟",
+          24,
+          31,
+          "cave",
+          70
+        ],
+        [
+          "冰宮試煉場",
+          51,
+          17,
+          "boss",
+          150
+        ],
+        [
+          "冰晶採集地",
+          43,
+          43,
+          "resource",
+          60
+        ],
+        [
+          "極光祕境",
+          83,
+          22,
+          "secret",
+          120
+        ]
+      ],
+      "route": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "branches": [
+        [
+          2,
+          7,
+          5
+        ],
+        [
+          4,
+          8,
+          6
+        ]
+      ],
+      "terrain": "Small sheltered snow timber village southwest; glacial circular landing south, broad eastern frozen lake and frost wyvern hunting zone. Sharp crystal canyon northeast-middle, cave northwest; modest grand ice palace only at north arena, not whole island. Ice crystal resource field in center. Aurora secret cliff at far northeast attached to land, snow ramps create routes between three terrain heights. No external ice bridges.",
+      "encounters": [
+        "Lv.221–260 凍湖飛龍區",
+        "Lv.261–300 冰晶峽谷",
+        "Lv.301–330 寒霜洞窟",
+        "Lv.331–350 冰宮試煉場"
+      ],
+      "cave": [
+        "結冰入口",
+        "霜晶大廳",
+        "寒霜遺室"
+      ],
+      "coordinates": [
+        {
+          "number": 1,
+          "name": "冰晶降落場",
+          "role": "landing",
+          "localStuds": [
+            0,
+            0,
+            630
+          ],
+          "worldStuds": [
+            0,
+            500,
+            630
+          ]
+        },
+        {
+          "number": 2,
+          "name": "雪境補給村",
+          "role": "safe",
+          "localStuds": [
+            -520,
+            15,
+            306
+          ],
+          "worldStuds": [
+            -520,
+            515,
+            306
+          ]
+        },
+        {
+          "number": 3,
+          "name": "凍湖飛龍區",
+          "role": "combat",
+          "localStuds": [
+            380,
+            0,
+            342
+          ],
+          "worldStuds": [
+            380,
+            500,
+            342
+          ]
+        },
+        {
+          "number": 4,
+          "name": "冰晶峽谷",
+          "role": "combat",
+          "localStuds": [
+            520,
+            90,
+            -144
+          ],
+          "worldStuds": [
+            520,
+            590,
+            -144
+          ]
+        },
+        {
+          "number": 5,
+          "name": "寒霜洞窟",
+          "role": "cave",
+          "localStuds": [
+            -520,
+            70,
+            -342
+          ],
+          "worldStuds": [
+            -520,
+            570,
+            -342
+          ]
+        },
+        {
+          "number": 6,
+          "name": "冰宮試煉場",
+          "role": "boss",
+          "localStuds": [
+            20,
+            150,
+            -594
+          ],
+          "worldStuds": [
+            20,
+            650,
+            -594
+          ]
+        },
+        {
+          "number": 7,
+          "name": "冰晶採集地",
+          "role": "resource",
+          "localStuds": [
+            -140,
+            60,
+            -126
+          ],
+          "worldStuds": [
+            -140,
+            560,
+            -126
+          ]
+        },
+        {
+          "number": 8,
+          "name": "極光祕境",
+          "role": "secret",
+          "localStuds": [
+            660,
+            120,
+            -504
+          ],
+          "worldStuds": [
+            660,
+            620,
+            -504
+          ]
+        }
+      ],
+      "plannedServices": [
+        {
+          "key": "Q",
+          "name": "主線任務 NPC：雪境嚮導",
+          "localStuds": [
+            -544,
+            15,
+            288
+          ]
+        },
+        {
+          "key": "S",
+          "name": "金幣商人",
+          "localStuds": [
+            -496,
+            15,
+            288
+          ]
+        },
+        {
+          "key": "W",
+          "name": "裝備工作台",
+          "localStuds": [
+            -544,
+            15,
+            324
+          ]
+        },
+        {
+          "key": "R",
+          "name": "復活祭壇",
+          "localStuds": [
+            -496,
+            15,
+            324
+          ]
+        }
+      ]
+    },
+    {
+      "id": "thunder_temple",
+      "n": 5,
+      "name": "雷霆神殿島",
+      "levels": [
+        351,
+        500
+      ],
+      "size": [
+        1800,
+        1600
+      ],
+      "center": [
+        -3400,
+        650,
+        0
+      ],
+      "palette": "storm blue, moss teal, aged bronze and gold",
+      "shape": "stepped angular rocky island with three broad continuous terraces, ruined columns and storm-charged obelisks",
+      "pois": [
+        [
+          "雷霆降落場",
+          28,
+          82,
+          "landing",
+          0
+        ],
+        [
+          "雷紋補給營",
+          26,
+          62,
+          "safe",
+          25
+        ],
+        [
+          "雷獸遺跡區",
+          65,
+          70,
+          "combat",
+          25
+        ],
+        [
+          "引雷高塔群",
+          77,
+          43,
+          "combat",
+          100
+        ],
+        [
+          "風暴地窖",
+          23,
+          29,
+          "cave",
+          65
+        ],
+        [
+          "雷霆神殿",
+          51,
+          17,
+          "boss",
+          180
+        ],
+        [
+          "雷晶採集場",
+          46,
+          45,
+          "resource",
+          70
+        ],
+        [
+          "雲頂祕壇",
+          82,
+          23,
+          "secret",
+          140
+        ]
+      ],
+      "route": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "branches": [
+        [
+          2,
+          7,
+          5
+        ],
+        [
+          4,
+          8,
+          6
+        ]
+      ],
+      "terrain": "Small expedition camp west, open storm ruins southeast, tall slender lightning obelisks east. Ancient bronze/gold temple concentrated on north upper terrace and circular storm arena. Dungeon entrance northwest hillside, cyan thunder crystal resources central. Weather dramatized at edges but readable overhead geometry, same-island stair/ramps loop through terraces, no gap-spanning bridges.",
+      "encounters": [
+        "Lv.351–395 雷獸遺跡區",
+        "Lv.396–445 引雷高塔群",
+        "Lv.446–480 風暴地窖",
+        "Lv.481–500 雷霆神殿"
+      ],
+      "cave": [
+        "雷封入口",
+        "導雷機關室",
+        "風暴核心室"
+      ],
+      "coordinates": [
+        {
+          "number": 1,
+          "name": "雷霆降落場",
+          "role": "landing",
+          "localStuds": [
+            -396,
+            0,
+            512
+          ],
+          "worldStuds": [
+            -3796,
+            650,
+            512
+          ]
+        },
+        {
+          "number": 2,
+          "name": "雷紋補給營",
+          "role": "safe",
+          "localStuds": [
+            -432,
+            25,
+            192
+          ],
+          "worldStuds": [
+            -3832,
+            675,
+            192
+          ]
+        },
+        {
+          "number": 3,
+          "name": "雷獸遺跡區",
+          "role": "combat",
+          "localStuds": [
+            270,
+            25,
+            320
+          ],
+          "worldStuds": [
+            -3130,
+            675,
+            320
+          ]
+        },
+        {
+          "number": 4,
+          "name": "引雷高塔群",
+          "role": "combat",
+          "localStuds": [
+            486,
+            100,
+            -112
+          ],
+          "worldStuds": [
+            -2914,
+            750,
+            -112
+          ]
+        },
+        {
+          "number": 5,
+          "name": "風暴地窖",
+          "role": "cave",
+          "localStuds": [
+            -486,
+            65,
+            -336
+          ],
+          "worldStuds": [
+            -3886,
+            715,
+            -336
+          ]
+        },
+        {
+          "number": 6,
+          "name": "雷霆神殿",
+          "role": "boss",
+          "localStuds": [
+            18,
+            180,
+            -528
+          ],
+          "worldStuds": [
+            -3382,
+            830,
+            -528
+          ]
+        },
+        {
+          "number": 7,
+          "name": "雷晶採集場",
+          "role": "resource",
+          "localStuds": [
+            -72,
+            70,
+            -80
+          ],
+          "worldStuds": [
+            -3472,
+            720,
+            -80
+          ]
+        },
+        {
+          "number": 8,
+          "name": "雲頂祕壇",
+          "role": "secret",
+          "localStuds": [
+            576,
+            140,
+            -432
+          ],
+          "worldStuds": [
+            -2824,
+            790,
+            -432
+          ]
+        }
+      ],
+      "plannedServices": [
+        {
+          "key": "Q",
+          "name": "主線任務 NPC：遺跡學者",
+          "localStuds": [
+            -456,
+            25,
+            174
+          ]
+        },
+        {
+          "key": "S",
+          "name": "金幣商人",
+          "localStuds": [
+            -408,
+            25,
+            174
+          ]
+        },
+        {
+          "key": "W",
+          "name": "裝備工作台",
+          "localStuds": [
+            -456,
+            25,
+            210
+          ]
+        },
+        {
+          "key": "R",
+          "name": "復活祭壇",
+          "localStuds": [
+            -408,
+            25,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shadow_abyss",
+      "n": 6,
+      "name": "暗影深淵島",
+      "levels": [
+        501,
+        650
+      ],
+      "size": [
+        2000,
+        1800
+      ],
+      "center": [
+        -3400,
+        850,
+        -3300
+      ],
+      "palette": "obsidian black, glowing violet, magenta and tarnished gold",
+      "shape": "irregular jagged island with a PARTIAL purple abyss fissure and continuous walkable land around it, twisted forest and stepped obsidian ridges",
+      "pois": [
+        [
+          "暗影降落場",
+          31,
+          83,
+          "landing",
+          0
+        ],
+        [
+          "守望者營地",
+          24,
+          64,
+          "safe",
+          30
+        ],
+        [
+          "暗影荒野",
+          65,
+          69,
+          "combat",
+          20
+        ],
+        [
+          "黑曜石裂谷",
+          75,
+          44,
+          "combat",
+          100
+        ],
+        [
+          "深淵地城",
+          23,
+          29,
+          "cave",
+          75
+        ],
+        [
+          "虛空龍王座",
+          51,
+          16,
+          "boss",
+          180
+        ],
+        [
+          "虛空晶礦",
+          45,
+          44,
+          "resource",
+          80
+        ],
+        [
+          "失落祕庫",
+          83,
+          25,
+          "secret",
+          120
+        ]
+      ],
+      "route": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "branches": [
+        [
+          2,
+          7,
+          5
+        ],
+        [
+          4,
+          8,
+          6
+        ]
+      ],
+      "terrain": "Protected small warm lantern camp southwest, violet grass and twisted woods southeast, obsidian ridges to east, partial fissure middle-east with ground path curving around closed end. Large dungeon entrance northwest, black gothic fortress only at north culminating in open void-dragon arena. Enemy black/magenta void dragon distinct from friendly purple/gold mount. Violet crystal mining center; secret vault northeast. Terrain remains readable, no all-black muddiness, no bridges over sky.",
+      "encounters": [
+        "Lv.501–545 暗影荒野",
+        "Lv.546–595 黑曜石裂谷",
+        "Lv.596–630 深淵地城",
+        "Lv.631–650 虛空龍王座"
+      ],
+      "cave": [
+        "黑曜石石門",
+        "暗影分岔廳",
+        "深淵封印室"
+      ],
+      "coordinates": [
+        {
+          "number": 1,
+          "name": "暗影降落場",
+          "role": "landing",
+          "localStuds": [
+            -380,
+            0,
+            594
+          ],
+          "worldStuds": [
+            -3780,
+            850,
+            -2706
+          ]
+        },
+        {
+          "number": 2,
+          "name": "守望者營地",
+          "role": "safe",
+          "localStuds": [
+            -520,
+            30,
+            252
+          ],
+          "worldStuds": [
+            -3920,
+            880,
+            -3048
+          ]
+        },
+        {
+          "number": 3,
+          "name": "暗影荒野",
+          "role": "combat",
+          "localStuds": [
+            300,
+            20,
+            342
+          ],
+          "worldStuds": [
+            -3100,
+            870,
+            -2958
+          ]
+        },
+        {
+          "number": 4,
+          "name": "黑曜石裂谷",
+          "role": "combat",
+          "localStuds": [
+            500,
+            100,
+            -108
+          ],
+          "worldStuds": [
+            -2900,
+            950,
+            -3408
+          ]
+        },
+        {
+          "number": 5,
+          "name": "深淵地城",
+          "role": "cave",
+          "localStuds": [
+            -540,
+            75,
+            -378
+          ],
+          "worldStuds": [
+            -3940,
+            925,
+            -3678
+          ]
+        },
+        {
+          "number": 6,
+          "name": "虛空龍王座",
+          "role": "boss",
+          "localStuds": [
+            20,
+            180,
+            -612
+          ],
+          "worldStuds": [
+            -3380,
+            1030,
+            -3912
+          ]
+        },
+        {
+          "number": 7,
+          "name": "虛空晶礦",
+          "role": "resource",
+          "localStuds": [
+            -100,
+            80,
+            -108
+          ],
+          "worldStuds": [
+            -3500,
+            930,
+            -3408
+          ]
+        },
+        {
+          "number": 8,
+          "name": "失落祕庫",
+          "role": "secret",
+          "localStuds": [
+            660,
+            120,
+            -450
+          ],
+          "worldStuds": [
+            -2740,
+            970,
+            -3750
+          ]
+        }
+      ],
+      "plannedServices": [
+        {
+          "key": "Q",
+          "name": "主線任務 NPC：守望者隊長",
+          "localStuds": [
+            -544,
+            30,
+            234
+          ]
+        },
+        {
+          "key": "S",
+          "name": "金幣商人",
+          "localStuds": [
+            -496,
+            30,
+            234
+          ]
+        },
+        {
+          "key": "W",
+          "name": "裝備工作台",
+          "localStuds": [
+            -544,
+            30,
+            270
+          ]
+        },
+        {
+          "key": "R",
+          "name": "復活祭壇",
+          "localStuds": [
+            -496,
+            30,
+            270
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dragon_sanctuary",
+      "n": 7,
+      "name": "神龍聖域島",
+      "levels": [
+        651,
+        800
+      ],
+      "size": [
+        2200,
+        2000
+      ],
+      "center": [
+        600,
+        1100,
+        -3500
+      ],
+      "palette": "ivory marble, imperial gold, star violet and flowering green",
+      "shape": "large asymmetrical tiered sacred island with broad grass gardens, ancient ruined terraces and a grand northern dragon palace",
+      "pois": [
+        [
+          "聖域降落場",
+          50,
+          85,
+          "landing",
+          0
+        ],
+        [
+          "龍裔補給城",
+          24,
+          69,
+          "safe",
+          30
+        ],
+        [
+          "龍裔試煉園",
+          70,
+          69,
+          "combat",
+          40
+        ],
+        [
+          "星穹守衛區",
+          76,
+          43,
+          "combat",
+          120
+        ],
+        [
+          "聖域遺跡",
+          23,
+          30,
+          "cave",
+          90
+        ],
+        [
+          "龍神終局場",
+          50,
+          16,
+          "boss",
+          220
+        ],
+        [
+          "星晶採集庭",
+          44,
+          45,
+          "resource",
+          90
+        ],
+        [
+          "龍神祕壇",
+          84,
+          24,
+          "secret",
+          160
+        ]
+      ],
+      "route": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "branches": [
+        [
+          2,
+          7,
+          5
+        ],
+        [
+          4,
+          8,
+          6
+        ]
+      ],
+      "terrain": "Final island must remain an explorable RPG terrain, not all palace: at least 65% open garden, ruins, rolling green sacred fields and crystal habitats. Ivory/gold compact town southwest, garden trial arenas southeast, star guard ruined terrace east, ancient underground entrance northwest, golden dragon palace and gigantic dragon statue only north with circular final arena. Small flower trees not covering routes, purple crystal resources center and high secret shrine northeast. Majestic purple/gold friendly mount on south pad; tiny figures for scale. Wide ramps connect on-island terraces.",
+      "encounters": [
+        "Lv.651–695 龍裔試煉園",
+        "Lv.696–745 星穹守衛區",
+        "Lv.746–780 聖域遺跡",
+        "Lv.781–800 龍神終局場"
+      ],
+      "cave": [
+        "聖域石門",
+        "星圖長廊",
+        "龍神遺室"
+      ],
+      "coordinates": [
+        {
+          "number": 1,
+          "name": "聖域降落場",
+          "role": "landing",
+          "localStuds": [
+            0,
+            0,
+            700
+          ],
+          "worldStuds": [
+            600,
+            1100,
+            -2800
+          ]
+        },
+        {
+          "number": 2,
+          "name": "龍裔補給城",
+          "role": "safe",
+          "localStuds": [
+            -572,
+            30,
+            380
+          ],
+          "worldStuds": [
+            28,
+            1130,
+            -3120
+          ]
+        },
+        {
+          "number": 3,
+          "name": "龍裔試煉園",
+          "role": "combat",
+          "localStuds": [
+            440,
+            40,
+            380
+          ],
+          "worldStuds": [
+            1040,
+            1140,
+            -3120
+          ]
+        },
+        {
+          "number": 4,
+          "name": "星穹守衛區",
+          "role": "combat",
+          "localStuds": [
+            572,
+            120,
+            -140
+          ],
+          "worldStuds": [
+            1172,
+            1220,
+            -3640
+          ]
+        },
+        {
+          "number": 5,
+          "name": "聖域遺跡",
+          "role": "cave",
+          "localStuds": [
+            -594,
+            90,
+            -400
+          ],
+          "worldStuds": [
+            6,
+            1190,
+            -3900
+          ]
+        },
+        {
+          "number": 6,
+          "name": "龍神終局場",
+          "role": "boss",
+          "localStuds": [
+            0,
+            220,
+            -680
+          ],
+          "worldStuds": [
+            600,
+            1320,
+            -4180
+          ]
+        },
+        {
+          "number": 7,
+          "name": "星晶採集庭",
+          "role": "resource",
+          "localStuds": [
+            -132,
+            90,
+            -100
+          ],
+          "worldStuds": [
+            468,
+            1190,
+            -3600
+          ]
+        },
+        {
+          "number": 8,
+          "name": "龍神祕壇",
+          "role": "secret",
+          "localStuds": [
+            748,
+            160,
+            -520
+          ],
+          "worldStuds": [
+            1348,
+            1260,
+            -4020
+          ]
+        }
+      ],
+      "plannedServices": [
+        {
+          "key": "Q",
+          "name": "主線任務 NPC：龍裔祭司",
+          "localStuds": [
+            -596,
+            30,
+            362
+          ]
+        },
+        {
+          "key": "S",
+          "name": "金幣商人",
+          "localStuds": [
+            -548,
+            30,
+            362
+          ]
+        },
+        {
+          "key": "W",
+          "name": "裝備工作台",
+          "localStuds": [
+            -596,
+            30,
+            398
+          ]
+        },
+        {
+          "key": "R",
+          "name": "復活祭壇",
+          "localStuds": [
+            -548,
+            30,
+            398
+          ]
+        }
+      ]
+    }
+  ],
+  "minimumHorizontalEnvelopeGapStuds": 1400,
+  "worldEnvelopeStuds": {
+    "minX": -4400.0,
+    "maxX": 4400.0,
+    "minZ": -4500.0,
+    "maxZ": 4000.0
+  },
+  "adjacentFlightConnections": [
+    {
+      "from": "grassland",
+      "to": "elven_forest",
+      "bidirectional": true,
+      "minimumEnvelopeGapStuds": 1700
+    },
+    {
+      "from": "elven_forest",
+      "to": "volcano",
+      "bidirectional": true,
+      "minimumEnvelopeGapStuds": 2121
+    },
+    {
+      "from": "volcano",
+      "to": "ice_crystal",
+      "bidirectional": true,
+      "minimumEnvelopeGapStuds": 1400
+    },
+    {
+      "from": "ice_crystal",
+      "to": "thunder_temple",
+      "bidirectional": true,
+      "minimumEnvelopeGapStuds": 1500
+    },
+    {
+      "from": "thunder_temple",
+      "to": "shadow_abyss",
+      "bidirectional": true,
+      "minimumEnvelopeGapStuds": 1600
+    },
+    {
+      "from": "shadow_abyss",
+      "to": "dragon_sanctuary",
+      "bidirectional": true,
+      "minimumEnvelopeGapStuds": 1900
+    }
+  ]
+}

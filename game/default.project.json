@@ -1,0 +1,91 @@
+{
+  "name": "DragonAwakening-Atelier-v9",
+  "tree": {
+    "$className": "DataModel",
+    "Workspace": {
+      "$className": "Workspace",
+      "$properties": {
+        "FallenPartsDestroyHeight": -650,
+        "StreamingEnabled": true,
+        "StreamingMinRadius": 128,
+        "StreamingTargetRadius": 1024
+      },
+      "Terrain": {
+        "$className": "Terrain",
+        "Clouds": {
+          "$className": "Clouds",
+          "$properties": {
+            "Cover": 0.55,
+            "Density": 0.35
+          }
+        }
+      },
+      "SkyIslands": {
+        "$path": "src/Workspace/SkyIslands.rbxmx"
+      },
+      "DragonSpawn": {
+        "$path": "src/Workspace/DragonSpawn.rbxmx"
+      },
+      "Camera": {
+        "$path": "src/Workspace/Camera.rbxmx"
+      }
+    },
+    "Lighting": {
+      "$className": "Lighting",
+      "$properties": {
+        "ClockTime": 14.4,
+        "Brightness": 2.5
+      },
+      "SkyAtmosphere": {
+        "$className": "Atmosphere",
+        "$properties": {
+          "Density": 0.22,
+          "Haze": 1.1,
+          "Glare": 0.1
+        }
+      },
+      "CrystalBloom": {
+        "$className": "BloomEffect",
+        "$properties": {
+          "Intensity": 0.25,
+          "Size": 24,
+          "Threshold": 1.4
+        }
+      },
+      "AnimeColor": {
+        "$className": "ColorCorrectionEffect",
+        "$properties": {
+          "Saturation": 0.12,
+          "Contrast": 0.05
+        }
+      }
+    },
+    "ReplicatedStorage": {
+      "DragonShared": {
+        "$path": "src/ReplicatedStorage/DragonShared"
+      }
+    },
+    "ServerScriptService": {
+      "DragonServer": {
+        "$path": "src/ServerScriptService/DragonServer"
+      }
+    },
+    "StarterGui": {
+      "DragonUI": {
+        "$className": "ScreenGui",
+        "$properties": {
+          "ResetOnSpawn": false,
+          "DisplayOrder": 10
+        },
+        "$path": "src/StarterGui/DragonUI"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "$properties": {
+        "CameraMaxZoomDistance": 110,
+        "CameraMinZoomDistance": 5
+      }
+    }
+  }
+}

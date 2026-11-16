@@ -1,0 +1,1938 @@
+{
+  "Summary": [
+    {
+      "Island": "grassland",
+      "SurfaceMinSpacing": 93.13442850525242,
+      "CaveMinSpacing": 65.3069674690228,
+      "FieldSpread": 338.4380500652965
+    },
+    {
+      "Island": "elven_forest",
+      "SurfaceMinSpacing": 93.4800969244256,
+      "CaveMinSpacing": 65.3069674690228,
+      "FieldSpread": 430.0901351600614
+    },
+    {
+      "Island": "volcano",
+      "SurfaceMinSpacing": 92.81608550784699,
+      "CaveMinSpacing": 65.3069674690228,
+      "FieldSpread": 452.49507216101244
+    },
+    {
+      "Island": "ice_crystal",
+      "SurfaceMinSpacing": 95.35303004100085,
+      "CaveMinSpacing": 65.3069674690228,
+      "FieldSpread": 348.8758485478753
+    },
+    {
+      "Island": "thunder_temple",
+      "SurfaceMinSpacing": 90.25137242723798,
+      "CaveMinSpacing": 65.3069674690228,
+      "FieldSpread": 430.9454211022551
+    },
+    {
+      "Island": "shadow_abyss",
+      "SurfaceMinSpacing": 93.96292507686232,
+      "CaveMinSpacing": 65.3069674690228,
+      "FieldSpread": 444.2788828798867
+    },
+    {
+      "Island": "dragon_sanctuary",
+      "SurfaceMinSpacing": 90.13857283094727,
+      "CaveMinSpacing": 65.3069674690228,
+      "FieldSpread": 407.18644029731615
+    }
+  ],
+  "Spawns": [
+    {
+      "Id": "slime_1",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 1,
+      "Position": [
+        -3111.272,
+        0,
+        3332.408
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "slime_2",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 3,
+      "Position": [
+        -3084.456,
+        0,
+        3669.782
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "slime_3",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 6,
+      "Position": [
+        -2940.078,
+        0,
+        3421.843
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "slime_4",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 9,
+      "Position": [
+        -2942.02,
+        0,
+        3524.462
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "slime_5",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 11,
+      "Position": [
+        -3010.785,
+        0,
+        3361.225
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "slime_6",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 14,
+      "Position": [
+        -3043.048,
+        0,
+        3550.143
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "slime_7",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 17,
+      "Position": [
+        -3193.026,
+        0,
+        3645.063
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "slime_8",
+      "Monster": "天空史萊姆",
+      "Island": "grassland",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 20,
+      "Position": [
+        -3176.326,
+        0,
+        3516.534
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "gale_wolf_1",
+      "Monster": "疾風角狼",
+      "Island": "grassland",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 21,
+      "Position": [
+        -2957.805,
+        50,
+        3193.237
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "gale_wolf_2",
+      "Monster": "疾風角狼",
+      "Island": "grassland",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 24,
+      "Position": [
+        -2927.462,
+        50,
+        3082.416
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "gale_wolf_3",
+      "Monster": "疾風角狼",
+      "Island": "grassland",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 28,
+      "Position": [
+        -3094.405,
+        50,
+        3008.225
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "gale_wolf_4",
+      "Monster": "疾風角狼",
+      "Island": "grassland",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 31,
+      "Position": [
+        -2993.85,
+        50,
+        3001.492
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "gale_wolf_5",
+      "Monster": "疾風角狼",
+      "Island": "grassland",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 35,
+      "Position": [
+        -3069.239,
+        50,
+        3207.451
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "crystal_tortoise_1",
+      "Monster": "晶背岩龜",
+      "Island": "grassland",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 36,
+      "Position": [
+        -3878,
+        -300,
+        2892
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "crystal_tortoise_2",
+      "Monster": "晶背岩龜",
+      "Island": "grassland",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 39,
+      "Position": [
+        -3817,
+        -300,
+        2812
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "crystal_tortoise_3",
+      "Monster": "晶背岩龜",
+      "Island": "grassland",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 42,
+      "Position": [
+        -3877,
+        -300,
+        2706
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "crystal_tortoise_4",
+      "Monster": "晶背岩龜",
+      "Island": "grassland",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 45,
+      "Position": [
+        -3818,
+        -300,
+        2678
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "wind_griffin_1",
+      "Monster": "風角獅鷲",
+      "Island": "grassland",
+      "Zone": 6,
+      "Role": "Boss",
+      "Space": "Surface",
+      "Level": 50,
+      "Position": [
+        -3400,
+        90,
+        2780
+      ],
+      "LeashRadius": 68
+    },
+    {
+      "Id": "glow_sprout_1",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 51,
+      "Position": [
+        -500.557,
+        170,
+        3427.338
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "glow_sprout_2",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 53,
+      "Position": [
+        -556.024,
+        150,
+        3158.159
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "glow_sprout_3",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 56,
+      "Position": [
+        -622.968,
+        170,
+        3386.728
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "glow_sprout_4",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 59,
+      "Position": [
+        -581.866,
+        170,
+        3258.216
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "glow_sprout_5",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 61,
+      "Position": [
+        -695.286,
+        150,
+        3446.734
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "glow_sprout_6",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 64,
+      "Position": [
+        -494.653,
+        150,
+        3583.848
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "glow_sprout_7",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 67,
+      "Position": [
+        -461.684,
+        170,
+        3302.078
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "glow_sprout_8",
+      "Monster": "螢光芽靈",
+      "Island": "elven_forest",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 70,
+      "Position": [
+        -428.745,
+        150,
+        3184.855
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thorn_panther_1",
+      "Monster": "荊棘獵豹",
+      "Island": "elven_forest",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 71,
+      "Position": [
+        380.672,
+        215,
+        3158.22
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "thorn_panther_2",
+      "Monster": "荊棘獵豹",
+      "Island": "elven_forest",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 77,
+      "Position": [
+        315.452,
+        215,
+        2994.15
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "thorn_panther_3",
+      "Monster": "荊棘獵豹",
+      "Island": "elven_forest",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 83,
+      "Position": [
+        485.943,
+        215,
+        3053.072
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "thorn_panther_4",
+      "Monster": "荊棘獵豹",
+      "Island": "elven_forest",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 89,
+      "Position": [
+        287.412,
+        215,
+        3151.809
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "thorn_panther_5",
+      "Monster": "荊棘獵豹",
+      "Island": "elven_forest",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 95,
+      "Position": [
+        483.169,
+        215,
+        3146.944
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "root_guardian_1",
+      "Monster": "樹根守衛",
+      "Island": "elven_forest",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 96,
+      "Position": [
+        -480,
+        -150,
+        2820
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "root_guardian_2",
+      "Monster": "樹根守衛",
+      "Island": "elven_forest",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 100,
+      "Position": [
+        -419,
+        -150,
+        2740
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "root_guardian_3",
+      "Monster": "樹根守衛",
+      "Island": "elven_forest",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 105,
+      "Position": [
+        -479,
+        -150,
+        2634
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "root_guardian_4",
+      "Monster": "樹根守衛",
+      "Island": "elven_forest",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 110,
+      "Position": [
+        -420,
+        -150,
+        2606
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "ancient_forest_dragon_1",
+      "Monster": "古樹森龍",
+      "Island": "elven_forest",
+      "Zone": 6,
+      "Role": "Boss",
+      "Space": "Surface",
+      "Level": 120,
+      "Position": [
+        -18,
+        250,
+        2672
+      ],
+      "LeashRadius": 68
+    },
+    {
+      "Id": "lava_drake_1",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 121,
+      "Position": [
+        3598.86,
+        320,
+        468.785
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "lava_drake_2",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 125,
+      "Position": [
+        3507.533,
+        320,
+        419.758
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "lava_drake_3",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 129,
+      "Position": [
+        3764.603,
+        320,
+        412.439
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "lava_drake_4",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 133,
+      "Position": [
+        3611.12,
+        320,
+        281.729
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "lava_drake_5",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 137,
+      "Position": [
+        3832.502,
+        300,
+        295.038
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "lava_drake_6",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 141,
+      "Position": [
+        3704.689,
+        300,
+        177.053
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "lava_drake_7",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 145,
+      "Position": [
+        3685.569,
+        300,
+        615.792
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "lava_drake_8",
+      "Monster": "熔岩幼龍",
+      "Island": "volcano",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 150,
+      "Position": [
+        3546.59,
+        300,
+        601.03
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "basalt_golem_1",
+      "Monster": "玄武岩魔像",
+      "Island": "volcano",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 151,
+      "Position": [
+        3985.307,
+        400,
+        -98.583
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "basalt_golem_2",
+      "Monster": "玄武岩魔像",
+      "Island": "volcano",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 159,
+      "Position": [
+        3775.473,
+        400,
+        -63.218
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "basalt_golem_3",
+      "Monster": "玄武岩魔像",
+      "Island": "volcano",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 168,
+      "Position": [
+        3942.155,
+        400,
+        -16.408
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "basalt_golem_4",
+      "Monster": "玄武岩魔像",
+      "Island": "volcano",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 176,
+      "Position": [
+        3877.946,
+        400,
+        -196.873
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "basalt_golem_5",
+      "Monster": "玄武岩魔像",
+      "Island": "volcano",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 185,
+      "Position": [
+        3869.745,
+        400,
+        45.618
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "magma_scorpion_1",
+      "Monster": "熔火巨蠍",
+      "Island": "volcano",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 186,
+      "Position": [
+        2850,
+        0,
+        -388
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "magma_scorpion_2",
+      "Monster": "熔火巨蠍",
+      "Island": "volcano",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 192,
+      "Position": [
+        2911,
+        0,
+        -468
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "magma_scorpion_3",
+      "Monster": "熔火巨蠍",
+      "Island": "volcano",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 198,
+      "Position": [
+        2851,
+        0,
+        -574
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "magma_scorpion_4",
+      "Monster": "熔火巨蠍",
+      "Island": "volcano",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 205,
+      "Position": [
+        2910,
+        0,
+        -602
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "magma_dragon_king_1",
+      "Monster": "熔岩龍王",
+      "Island": "volcano",
+      "Zone": 6,
+      "Role": "Boss",
+      "Space": "Surface",
+      "Level": 220,
+      "Position": [
+        3400,
+        470,
+        -576
+      ],
+      "LeashRadius": 68
+    },
+    {
+      "Id": "ice_wyrm_1",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 221,
+      "Position": [
+        449.205,
+        500,
+        218.777
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "ice_wyrm_2",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 226,
+      "Position": [
+        281.175,
+        500,
+        455.307
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "ice_wyrm_3",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 232,
+      "Position": [
+        204.641,
+        500,
+        280.72
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "ice_wyrm_4",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 237,
+      "Position": [
+        303.595,
+        500,
+        264.288
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "ice_wyrm_5",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 243,
+      "Position": [
+        369.281,
+        500,
+        400.033
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "ice_wyrm_6",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 248,
+      "Position": [
+        532.782,
+        500,
+        264.68
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "ice_wyrm_7",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 254,
+      "Position": [
+        421.707,
+        500,
+        490.039
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "ice_wyrm_8",
+      "Monster": "冰晶飛龍",
+      "Island": "ice_crystal",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 260,
+      "Position": [
+        516.769,
+        500,
+        436.574
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "frost_sabercat_1",
+      "Monster": "霜牙雪豹",
+      "Island": "ice_crystal",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 261,
+      "Position": [
+        532.636,
+        590,
+        -35.101
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "frost_sabercat_2",
+      "Monster": "霜牙雪豹",
+      "Island": "ice_crystal",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 270,
+      "Position": [
+        495.926,
+        590,
+        -262.091
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "frost_sabercat_3",
+      "Monster": "霜牙雪豹",
+      "Island": "ice_crystal",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 280,
+      "Position": [
+        558.738,
+        590,
+        -158.045
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "frost_sabercat_4",
+      "Monster": "霜牙雪豹",
+      "Island": "ice_crystal",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 290,
+      "Position": [
+        439.902,
+        590,
+        -66.116
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "frost_sabercat_5",
+      "Monster": "霜牙雪豹",
+      "Island": "ice_crystal",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 300,
+      "Position": [
+        623.505,
+        590,
+        -76.69
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "frost_colossus_1",
+      "Monster": "寒霜巨像",
+      "Island": "ice_crystal",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 301,
+      "Position": [
+        -550,
+        200,
+        -370
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "frost_colossus_2",
+      "Monster": "寒霜巨像",
+      "Island": "ice_crystal",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 310,
+      "Position": [
+        -489,
+        200,
+        -450
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "frost_colossus_3",
+      "Monster": "寒霜巨像",
+      "Island": "ice_crystal",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 320,
+      "Position": [
+        -549,
+        200,
+        -556
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "frost_colossus_4",
+      "Monster": "寒霜巨像",
+      "Island": "ice_crystal",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 330,
+      "Position": [
+        -490,
+        200,
+        -584
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "ice_dragon_queen_1",
+      "Monster": "冰冠龍后",
+      "Island": "ice_crystal",
+      "Zone": 6,
+      "Role": "Boss",
+      "Space": "Surface",
+      "Level": 350,
+      "Position": [
+        20,
+        650,
+        -594
+      ],
+      "LeashRadius": 68
+    },
+    {
+      "Id": "thunder_hawk_1",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 351,
+      "Position": [
+        -3124.02,
+        675,
+        450.579
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thunder_hawk_2",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 357,
+      "Position": [
+        -3008.44,
+        675,
+        302.298
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thunder_hawk_3",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 363,
+      "Position": [
+        -2914.015,
+        650,
+        308.769
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thunder_hawk_4",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 369,
+      "Position": [
+        -3057.294,
+        650,
+        534.322
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thunder_hawk_5",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 376,
+      "Position": [
+        -3204.105,
+        675,
+        376.592
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thunder_hawk_6",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 382,
+      "Position": [
+        -3225.001,
+        675,
+        232.988
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thunder_hawk_7",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 388,
+      "Position": [
+        -3332.352,
+        650,
+        412.249
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "thunder_hawk_8",
+      "Monster": "雷羽獵鷹",
+      "Island": "thunder_temple",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 395,
+      "Position": [
+        -3169.258,
+        650,
+        536.865
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "storm_wolf_1",
+      "Monster": "雷紋戰狼",
+      "Island": "thunder_temple",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 396,
+      "Position": [
+        -2885.556,
+        750,
+        -15.251
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "storm_wolf_2",
+      "Monster": "雷紋戰狼",
+      "Island": "thunder_temple",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 408,
+      "Position": [
+        -2789.871,
+        750,
+        -121.789
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "storm_wolf_3",
+      "Monster": "雷紋戰狼",
+      "Island": "thunder_temple",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 420,
+      "Position": [
+        -3018.775,
+        750,
+        -51.631
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "storm_wolf_4",
+      "Monster": "雷紋戰狼",
+      "Island": "thunder_temple",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 432,
+      "Position": [
+        -2927.222,
+        750,
+        -200.754
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "storm_wolf_5",
+      "Monster": "雷紋戰狼",
+      "Island": "thunder_temple",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 445,
+      "Position": [
+        -2832.731,
+        750,
+        -201.214
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "lightning_sentinel_1",
+      "Monster": "引雷守衛",
+      "Island": "thunder_temple",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 446,
+      "Position": [
+        -3916,
+        350,
+        -364
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "lightning_sentinel_2",
+      "Monster": "引雷守衛",
+      "Island": "thunder_temple",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 457,
+      "Position": [
+        -3855,
+        350,
+        -444
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "lightning_sentinel_3",
+      "Monster": "引雷守衛",
+      "Island": "thunder_temple",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 468,
+      "Position": [
+        -3915,
+        350,
+        -550
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "lightning_sentinel_4",
+      "Monster": "引雷守衛",
+      "Island": "thunder_temple",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 480,
+      "Position": [
+        -3856,
+        350,
+        -578
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "thunder_dragon_emperor_1",
+      "Monster": "雷霆龍帝",
+      "Island": "thunder_temple",
+      "Zone": 6,
+      "Role": "Boss",
+      "Space": "Surface",
+      "Level": 500,
+      "Position": [
+        -3382,
+        830,
+        -528
+      ],
+      "LeashRadius": 68
+    },
+    {
+      "Id": "shadow_wolf_1",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 501,
+      "Position": [
+        -2972.561,
+        870,
+        -3003.231
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "shadow_wolf_2",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 507,
+      "Position": [
+        -3045.115,
+        850,
+        -3172.367
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "shadow_wolf_3",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 513,
+      "Position": [
+        -3186.961,
+        870,
+        -2870.255
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "shadow_wolf_4",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 519,
+      "Position": [
+        -3115.303,
+        870,
+        -3069.895
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "shadow_wolf_5",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 526,
+      "Position": [
+        -2981.796,
+        870,
+        -2909.723
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "shadow_wolf_6",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 532,
+      "Position": [
+        -3086.685,
+        870,
+        -2840.082
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "shadow_wolf_7",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 538,
+      "Position": [
+        -3127.688,
+        850,
+        -2735.829
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "shadow_wolf_8",
+      "Monster": "暗影幽狼",
+      "Island": "shadow_abyss",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 545,
+      "Position": [
+        -3141.02,
+        850,
+        -3162.88
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "obsidian_knight_1",
+      "Monster": "黑曜魔騎",
+      "Island": "shadow_abyss",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 546,
+      "Position": [
+        -3001.375,
+        950,
+        -3477.169
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "obsidian_knight_2",
+      "Monster": "黑曜魔騎",
+      "Island": "shadow_abyss",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 558,
+      "Position": [
+        -2813.253,
+        950,
+        -3388.127
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "obsidian_knight_3",
+      "Monster": "黑曜魔騎",
+      "Island": "shadow_abyss",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 570,
+      "Position": [
+        -3011.313,
+        950,
+        -3381.389
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "obsidian_knight_4",
+      "Monster": "黑曜魔騎",
+      "Island": "shadow_abyss",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 582,
+      "Position": [
+        -2900.56,
+        950,
+        -3527.214
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "obsidian_knight_5",
+      "Monster": "黑曜魔騎",
+      "Island": "shadow_abyss",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 595,
+      "Position": [
+        -2883.886,
+        950,
+        -3292.56
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "abyss_beholder_1",
+      "Monster": "深淵眼魔",
+      "Island": "shadow_abyss",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 596,
+      "Position": [
+        -3970,
+        550,
+        -3706
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "abyss_beholder_2",
+      "Monster": "深淵眼魔",
+      "Island": "shadow_abyss",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 607,
+      "Position": [
+        -3909,
+        550,
+        -3786
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "abyss_beholder_3",
+      "Monster": "深淵眼魔",
+      "Island": "shadow_abyss",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 618,
+      "Position": [
+        -3969,
+        550,
+        -3892
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "abyss_beholder_4",
+      "Monster": "深淵眼魔",
+      "Island": "shadow_abyss",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 630,
+      "Position": [
+        -3910,
+        550,
+        -3920
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "void_dragon_1",
+      "Monster": "虛空龍王",
+      "Island": "shadow_abyss",
+      "Zone": 6,
+      "Role": "Boss",
+      "Space": "Surface",
+      "Level": 650,
+      "Position": [
+        -3380,
+        1030,
+        -3912
+      ],
+      "LeashRadius": 68
+    },
+    {
+      "Id": "star_wing_lion_1",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 651,
+      "Position": [
+        1104.647,
+        1140,
+        -3186.303
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "star_wing_lion_2",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 657,
+      "Position": [
+        936.441,
+        1140,
+        -3077.41
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "star_wing_lion_3",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 663,
+      "Position": [
+        1244.202,
+        1100,
+        -3133.304
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "star_wing_lion_4",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 669,
+      "Position": [
+        992.184,
+        1140,
+        -3213.125
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "star_wing_lion_5",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 676,
+      "Position": [
+        1049.695,
+        1140,
+        -3036.736
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "star_wing_lion_6",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 682,
+      "Position": [
+        1024.954,
+        1100,
+        -3321.669
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "star_wing_lion_7",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 688,
+      "Position": [
+        1042.895,
+        1100,
+        -2914.878
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "star_wing_lion_8",
+      "Monster": "星穹翼獅",
+      "Island": "dragon_sanctuary",
+      "Zone": 3,
+      "Role": "Field",
+      "Space": "Surface",
+      "Level": 695,
+      "Position": [
+        1141.106,
+        1140,
+        -3072.004
+      ],
+      "LeashRadius": 38
+    },
+    {
+      "Id": "sanctuary_dragon_guard_1",
+      "Monster": "聖域龍衛",
+      "Island": "dragon_sanctuary",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 696,
+      "Position": [
+        1094.115,
+        1220,
+        -3735.675
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "sanctuary_dragon_guard_2",
+      "Monster": "聖域龍衛",
+      "Island": "dragon_sanctuary",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 708,
+      "Position": [
+        1217.935,
+        1220,
+        -3650.877
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "sanctuary_dragon_guard_3",
+      "Monster": "聖域龍衛",
+      "Island": "dragon_sanctuary",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 720,
+      "Position": [
+        1121.821,
+        1220,
+        -3578.22
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "sanctuary_dragon_guard_4",
+      "Monster": "聖域龍衛",
+      "Island": "dragon_sanctuary",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 732,
+      "Position": [
+        1235.218,
+        1220,
+        -3536.45
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "sanctuary_dragon_guard_5",
+      "Monster": "聖域龍衛",
+      "Island": "dragon_sanctuary",
+      "Zone": 4,
+      "Role": "Elite",
+      "Space": "Surface",
+      "Level": 745,
+      "Position": [
+        1181.609,
+        1220,
+        -3757.349
+      ],
+      "LeashRadius": 42
+    },
+    {
+      "Id": "star_crystal_colossus_1",
+      "Monster": "星晶巨像",
+      "Island": "dragon_sanctuary",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 746,
+      "Position": [
+        -24,
+        800,
+        -3928
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "star_crystal_colossus_2",
+      "Monster": "星晶巨像",
+      "Island": "dragon_sanctuary",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 757,
+      "Position": [
+        37,
+        800,
+        -4008
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "star_crystal_colossus_3",
+      "Monster": "星晶巨像",
+      "Island": "dragon_sanctuary",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 768,
+      "Position": [
+        -23,
+        800,
+        -4114
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "star_crystal_colossus_4",
+      "Monster": "星晶巨像",
+      "Island": "dragon_sanctuary",
+      "Zone": 5,
+      "Role": "Cave",
+      "Space": "Cave",
+      "Level": 780,
+      "Position": [
+        36,
+        800,
+        -4142
+      ],
+      "LeashRadius": 24
+    },
+    {
+      "Id": "ancient_divine_dragon_1",
+      "Monster": "遠古神龍",
+      "Island": "dragon_sanctuary",
+      "Zone": 6,
+      "Role": "Boss",
+      "Space": "Surface",
+      "Level": 800,
+      "Position": [
+        600,
+        1320,
+        -4180
+      ],
+      "LeashRadius": 68
+    }
+  ]
+}

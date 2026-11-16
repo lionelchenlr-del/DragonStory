@@ -1,0 +1,52 @@
+<roblox version="4">
+  <Item class="Camera" referent="0">
+    <Properties>
+      <string name="Name">Camera</string>
+      <BinaryString name="AttributesSerialize"></BinaryString>
+      <CoordinateFrame name="CFrame">
+        <X>-3220</X>
+        <Y>100</Y>
+        <Z>3846</Z>
+        <R00>0.8320503</R00>
+        <R01>-0.1280678</R01>
+        <R02>0.53971374</R02>
+        <R10>0</R10>
+        <R11>0.97298276</R11>
+        <R12>0.23087753</R12>
+        <R20>-0.5547002</R20>
+        <R21>-0.19210173</R21>
+        <R22>0.8095706</R22>
+      </CoordinateFrame>
+      <token name="CameraType">0</token>
+      <SecurityCapabilities name="Capabilities">0</SecurityCapabilities>
+      <float name="FieldOfView">70</float>
+      <token name="FieldOfViewMode">0</token>
+      <CoordinateFrame name="Focus">
+        <X>0</X>
+        <Y>0</Y>
+        <Z>-5</Z>
+        <R00>1</R00>
+        <R01>0</R01>
+        <R02>0</R02>
+        <R10>0</R10>
+        <R11>1</R11>
+        <R12>0</R12>
+        <R20>0</R20>
+        <R21>0</R21>
+        <R22>1</R22>
+      </CoordinateFrame>
+      <bool name="HeadLocked">true</bool>
+      <float name="HeadScale">1</float>
+      <token name="OrthographicMode">0</token>
+      <float name="OrthographicSize">35</float>
+      <token name="ProjectionType">0</token>
+      <bool name="DefinesCapabilities">false</bool>
+      <BinaryString name="SerializedOverrides">
+      </BinaryString>
+      <int64 name="SourceAssetId">-1</int64>
+      <BinaryString name="Tags"></BinaryString>
+      <bool name="VRTiltAndRollEnabled">false</bool>
+      <float name="ViewStretch">1</float>
+    </Properties>
+  </Item>
+</roblox>

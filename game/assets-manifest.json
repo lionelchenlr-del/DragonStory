@@ -1,0 +1,26 @@
+{
+  "archive": {
+    "name": "DragonAwakening-Atelier-v9.zip",
+    "bytes": 295853040,
+    "sha256": "dd59079f265d09a4b621ff423f7fd69230d83c68a1a71cdc32652d2bc4f0962b",
+    "url": "https://github.com/lionelchenlr-del/DragonStory/releases/download/v9-2026-11-16/DragonAwakening-Atelier-v9.zip"
+  },
+  "archive_root": "DragonAwakening-Atelier-v9",
+  "files": [
+    {
+      "path": "DragonAwakening-Atelier-v9.rbxl",
+      "bytes": 109434657,
+      "sha256": "bc1caa2efecf0ef480080d0437302ad19082d72266d07dc46610fec490811ac9"
+    },
+    {
+      "path": "src/Workspace/SkyIslands.rbxmx",
+      "bytes": 155976919,
+      "sha256": "660814581bcbebe0206138a2b8d2481bcb189001736fb126ae592d36124fad8d"
+    },
+    {
+      "path": "src/ReplicatedStorage/DragonShared/BakedArt.rbxmx",
+      "bytes": 162678882,
+      "sha256": "24ecfc6b6c542f5dd6187914371b352fc8152119b4884c48f84c24ded3e9ec2b"
+    }
+  ]
+}

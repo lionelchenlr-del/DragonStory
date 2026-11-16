@@ -1,0 +1,8010 @@
+{
+  "Version": 2,
+  "Atlases": {
+    "kit_1": {
+      "Width": 1536,
+      "Height": 1024,
+      "Tiles": [
+        {
+          "Name": "kit_1_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_1_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "c63c94fb0342501eb668bc94d0934e2dd877f5d32b18ee2acf05311047512104"
+    },
+    "kit_2": {
+      "Width": 1536,
+      "Height": 1024,
+      "Tiles": [
+        {
+          "Name": "kit_2_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_2_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "832d935bcd6a5233d5c2066f059b740d4308749de636bf27ed30d56b1d73c3b1"
+    },
+    "kit_3": {
+      "Width": 1536,
+      "Height": 1024,
+      "Tiles": [
+        {
+          "Name": "kit_3_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_3_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "1914cd2e456e88586cba5f4525a1c3beec44ef3181692cc81fc503875ba0e341"
+    },
+    "kit_4": {
+      "Width": 1536,
+      "Height": 1024,
+      "Tiles": [
+        {
+          "Name": "kit_4_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_4_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "b0923c6bc5b931c2c9386f4b0d7a00bfee91c9cde605533eb6fb835092c3b002"
+    },
+    "kit_5": {
+      "Width": 1536,
+      "Height": 1024,
+      "Tiles": [
+        {
+          "Name": "kit_5_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_5_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "28af0c7bbcca9fe7748a3cda4b6c6cfe0358fcedd15733f2ca2c5888f715c256"
+    },
+    "kit_6": {
+      "Width": 1536,
+      "Height": 1024,
+      "Tiles": [
+        {
+          "Name": "kit_6_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_6_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "ececf470b687443dcc022cbd516399a7acf00f031ea2e81558da6601f29d7413"
+    },
+    "kit_7": {
+      "Width": 1536,
+      "Height": 1024,
+      "Tiles": [
+        {
+          "Name": "kit_7_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "kit_7_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 192,
+          "Height": 64,
+          "Bytes": 49152,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "e6bdf82d9bec43d0c62c09c0e625ee4dd18b767699043ea8a85a01f61673b670"
+    },
+    "emperor": {
+      "Width": 1672,
+      "Height": 941,
+      "Tiles": [
+        {
+          "Name": "emperor_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1536_0000",
+          "X": 1536,
+          "Y": 0,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1536_0192",
+          "X": 1536,
+          "Y": 192,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1536_0384",
+          "X": 1536,
+          "Y": 384,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1536_0576",
+          "X": 1536,
+          "Y": 576,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "emperor_1536_0768",
+          "X": 1536,
+          "Y": 768,
+          "Width": 136,
+          "Height": 173,
+          "Bytes": 94112,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "1778bbf098bb175791aa45c8ab2e3cf57223238a9fcb357b9c3cb2142a8de234"
+    },
+    "evolution": {
+      "Width": 1672,
+      "Height": 941,
+      "Tiles": [
+        {
+          "Name": "evolution_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1536_0000",
+          "X": 1536,
+          "Y": 0,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1536_0192",
+          "X": 1536,
+          "Y": 192,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1536_0384",
+          "X": 1536,
+          "Y": 384,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1536_0576",
+          "X": 1536,
+          "Y": 576,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "evolution_1536_0768",
+          "X": 1536,
+          "Y": 768,
+          "Width": 136,
+          "Height": 173,
+          "Bytes": 94112,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "afa373545e97aebe3aa4222614ced836c9e651e8783e0ceebf55d7d32f6b3717"
+    },
+    "map_grassland": {
+      "Width": 1491,
+      "Height": 1055,
+      "Tiles": [
+        {
+          "Name": "map_grassland_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_grassland_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 147,
+          "Height": 95,
+          "Bytes": 55860,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "bf47dd987565ecf48ffb50a93c02b988b2af993ef1dece2641d769e8275366f1"
+    },
+    "map_elven_forest": {
+      "Width": 1491,
+      "Height": 1055,
+      "Tiles": [
+        {
+          "Name": "map_elven_forest_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_elven_forest_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 147,
+          "Height": 95,
+          "Bytes": 55860,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "7b3de948ffadf42fb9b18a47078c9525a0d42f161d9b5236b256d82575b9d6be"
+    },
+    "map_volcano": {
+      "Width": 1491,
+      "Height": 1055,
+      "Tiles": [
+        {
+          "Name": "map_volcano_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_volcano_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 147,
+          "Height": 95,
+          "Bytes": 55860,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "e8c87633bb4df3f5729fceb950e175600a462860ed414936ff55b898064559e8"
+    },
+    "map_ice_crystal": {
+      "Width": 1491,
+      "Height": 1055,
+      "Tiles": [
+        {
+          "Name": "map_ice_crystal_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_ice_crystal_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 147,
+          "Height": 95,
+          "Bytes": 55860,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "e4fffa24e2f7af53fd2bec3627c5d35e3680133121c54677b21789be09740ef2"
+    },
+    "map_thunder_temple": {
+      "Width": 1491,
+      "Height": 1055,
+      "Tiles": [
+        {
+          "Name": "map_thunder_temple_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_thunder_temple_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 147,
+          "Height": 95,
+          "Bytes": 55860,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "49fa7ed8048efac622e4134bb7a188d392cf348e9cd312b5d85d6b5cc891e169"
+    },
+    "map_shadow_abyss": {
+      "Width": 1491,
+      "Height": 1055,
+      "Tiles": [
+        {
+          "Name": "map_shadow_abyss_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_shadow_abyss_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 147,
+          "Height": 95,
+          "Bytes": 55860,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "9a2a4ae9df5a6be80f0fce129228e103bb64e66b69292bb2ace19603946ecd2c"
+    },
+    "map_dragon_sanctuary": {
+      "Width": 1491,
+      "Height": 1055,
+      "Tiles": [
+        {
+          "Name": "map_dragon_sanctuary_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 147,
+          "Height": 192,
+          "Bytes": 112896,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0000_0960",
+          "X": 0,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0192_0960",
+          "X": 192,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0384_0960",
+          "X": 384,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0576_0960",
+          "X": 576,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0768_0960",
+          "X": 768,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_0960_0960",
+          "X": 960,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1152_0960",
+          "X": 1152,
+          "Y": 960,
+          "Width": 192,
+          "Height": 95,
+          "Bytes": 72960,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_dragon_sanctuary_1344_0960",
+          "X": 1344,
+          "Y": 960,
+          "Width": 147,
+          "Height": 95,
+          "Bytes": 55860,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "c18fb976632ef0831962a89b63b8eca274e8a59e7bb565fb3b971cef4270b6d9"
+    },
+    "map_world": {
+      "Width": 1672,
+      "Height": 941,
+      "Tiles": [
+        {
+          "Name": "map_world_0000_0000",
+          "X": 0,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0192_0000",
+          "X": 192,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0384_0000",
+          "X": 384,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0576_0000",
+          "X": 576,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0768_0000",
+          "X": 768,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0960_0000",
+          "X": 960,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1152_0000",
+          "X": 1152,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1344_0000",
+          "X": 1344,
+          "Y": 0,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1536_0000",
+          "X": 1536,
+          "Y": 0,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0000_0192",
+          "X": 0,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0192_0192",
+          "X": 192,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0384_0192",
+          "X": 384,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0576_0192",
+          "X": 576,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0768_0192",
+          "X": 768,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0960_0192",
+          "X": 960,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1152_0192",
+          "X": 1152,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1344_0192",
+          "X": 1344,
+          "Y": 192,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1536_0192",
+          "X": 1536,
+          "Y": 192,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0000_0384",
+          "X": 0,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0192_0384",
+          "X": 192,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0384_0384",
+          "X": 384,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0576_0384",
+          "X": 576,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0768_0384",
+          "X": 768,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0960_0384",
+          "X": 960,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1152_0384",
+          "X": 1152,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1344_0384",
+          "X": 1344,
+          "Y": 384,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1536_0384",
+          "X": 1536,
+          "Y": 384,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0000_0576",
+          "X": 0,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0192_0576",
+          "X": 192,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0384_0576",
+          "X": 384,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0576_0576",
+          "X": 576,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0768_0576",
+          "X": 768,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0960_0576",
+          "X": 960,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1152_0576",
+          "X": 1152,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1344_0576",
+          "X": 1344,
+          "Y": 576,
+          "Width": 192,
+          "Height": 192,
+          "Bytes": 147456,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1536_0576",
+          "X": 1536,
+          "Y": 576,
+          "Width": 136,
+          "Height": 192,
+          "Bytes": 104448,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0000_0768",
+          "X": 0,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0192_0768",
+          "X": 192,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0384_0768",
+          "X": 384,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0576_0768",
+          "X": 576,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0768_0768",
+          "X": 768,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_0960_0768",
+          "X": 960,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1152_0768",
+          "X": 1152,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1344_0768",
+          "X": 1344,
+          "Y": 768,
+          "Width": 192,
+          "Height": 173,
+          "Bytes": 132864,
+          "Encoding": "Sub"
+        },
+        {
+          "Name": "map_world_1536_0768",
+          "X": 1536,
+          "Y": 768,
+          "Width": 136,
+          "Height": 173,
+          "Bytes": 94112,
+          "Encoding": "Sub"
+        }
+      ],
+      "SHA256": "b93836b21215f42d62163277725f660018ff58d90accf26d8f48b2cc551451aa"
+    }
+  },
+  "Regions": {
+    "slime": {
+      "Atlas": "kit_1",
+      "Rect": [
+        10,
+        195,
+        364,
+        358
+      ]
+    },
+    "gale_wolf": {
+      "Atlas": "kit_1",
+      "Rect": [
+        394,
+        195,
+        364,
+        358
+      ]
+    },
+    "crystal_tortoise": {
+      "Atlas": "kit_1",
+      "Rect": [
+        778,
+        195,
+        364,
+        358
+      ]
+    },
+    "wind_griffin": {
+      "Atlas": "kit_1",
+      "Rect": [
+        1162,
+        195,
+        364,
+        358
+      ]
+    },
+    "sky_guard_sword": {
+      "Atlas": "kit_1",
+      "Rect": [
+        10,
+        686,
+        364,
+        236
+      ]
+    },
+    "sky_guard_helmet": {
+      "Atlas": "kit_1",
+      "Rect": [
+        394,
+        686,
+        364,
+        236
+      ]
+    },
+    "sky_guard_armor": {
+      "Atlas": "kit_1",
+      "Rect": [
+        778,
+        686,
+        364,
+        236
+      ]
+    },
+    "sky_guard_boots": {
+      "Atlas": "kit_1",
+      "Rect": [
+        1162,
+        686,
+        364,
+        236
+      ]
+    },
+    "glow_sprout": {
+      "Atlas": "kit_2",
+      "Rect": [
+        10,
+        195,
+        364,
+        358
+      ]
+    },
+    "thorn_panther": {
+      "Atlas": "kit_2",
+      "Rect": [
+        394,
+        195,
+        364,
+        358
+      ]
+    },
+    "root_guardian": {
+      "Atlas": "kit_2",
+      "Rect": [
+        778,
+        195,
+        364,
+        358
+      ]
+    },
+    "ancient_forest_dragon": {
+      "Atlas": "kit_2",
+      "Rect": [
+        1162,
+        195,
+        364,
+        358
+      ]
+    },
+    "forest_oath_sword": {
+      "Atlas": "kit_2",
+      "Rect": [
+        10,
+        686,
+        364,
+        236
+      ]
+    },
+    "forest_oath_helmet": {
+      "Atlas": "kit_2",
+      "Rect": [
+        394,
+        686,
+        364,
+        236
+      ]
+    },
+    "forest_oath_armor": {
+      "Atlas": "kit_2",
+      "Rect": [
+        778,
+        686,
+        364,
+        236
+      ]
+    },
+    "forest_oath_boots": {
+      "Atlas": "kit_2",
+      "Rect": [
+        1162,
+        686,
+        364,
+        236
+      ]
+    },
+    "lava_drake": {
+      "Atlas": "kit_3",
+      "Rect": [
+        10,
+        195,
+        364,
+        358
+      ]
+    },
+    "basalt_golem": {
+      "Atlas": "kit_3",
+      "Rect": [
+        394,
+        195,
+        364,
+        358
+      ]
+    },
+    "magma_scorpion": {
+      "Atlas": "kit_3",
+      "Rect": [
+        778,
+        195,
+        364,
+        358
+      ]
+    },
+    "magma_dragon_king": {
+      "Atlas": "kit_3",
+      "Rect": [
+        1162,
+        195,
+        364,
+        358
+      ]
+    },
+    "flame_sword": {
+      "Atlas": "kit_3",
+      "Rect": [
+        10,
+        686,
+        364,
+        236
+      ]
+    },
+    "flame_helmet": {
+      "Atlas": "kit_3",
+      "Rect": [
+        394,
+        686,
+        364,
+        236
+      ]
+    },
+    "flame_armor": {
+      "Atlas": "kit_3",
+      "Rect": [
+        778,
+        686,
+        364,
+        236
+      ]
+    },
+    "flame_boots": {
+      "Atlas": "kit_3",
+      "Rect": [
+        1162,
+        686,
+        364,
+        236
+      ]
+    },
+    "ice_wyrm": {
+      "Atlas": "kit_4",
+      "Rect": [
+        10,
+        195,
+        364,
+        358
+      ]
+    },
+    "frost_sabercat": {
+      "Atlas": "kit_4",
+      "Rect": [
+        394,
+        195,
+        364,
+        358
+      ]
+    },
+    "frost_colossus": {
+      "Atlas": "kit_4",
+      "Rect": [
+        778,
+        195,
+        364,
+        358
+      ]
+    },
+    "ice_dragon_queen": {
+      "Atlas": "kit_4",
+      "Rect": [
+        1162,
+        195,
+        364,
+        358
+      ]
+    },
+    "frost_sword": {
+      "Atlas": "kit_4",
+      "Rect": [
+        10,
+        686,
+        364,
+        236
+      ]
+    },
+    "frost_helmet": {
+      "Atlas": "kit_4",
+      "Rect": [
+        394,
+        686,
+        364,
+        236
+      ]
+    },
+    "frost_armor": {
+      "Atlas": "kit_4",
+      "Rect": [
+        778,
+        686,
+        364,
+        236
+      ]
+    },
+    "frost_boots": {
+      "Atlas": "kit_4",
+      "Rect": [
+        1162,
+        686,
+        364,
+        236
+      ]
+    },
+    "thunder_hawk": {
+      "Atlas": "kit_5",
+      "Rect": [
+        10,
+        195,
+        364,
+        358
+      ]
+    },
+    "storm_wolf": {
+      "Atlas": "kit_5",
+      "Rect": [
+        394,
+        195,
+        364,
+        358
+      ]
+    },
+    "lightning_sentinel": {
+      "Atlas": "kit_5",
+      "Rect": [
+        778,
+        195,
+        364,
+        358
+      ]
+    },
+    "thunder_dragon_emperor": {
+      "Atlas": "kit_5",
+      "Rect": [
+        1162,
+        195,
+        364,
+        358
+      ]
+    },
+    "thunder_sword": {
+      "Atlas": "kit_5",
+      "Rect": [
+        10,
+        686,
+        364,
+        236
+      ]
+    },
+    "thunder_helmet": {
+      "Atlas": "kit_5",
+      "Rect": [
+        394,
+        686,
+        364,
+        236
+      ]
+    },
+    "thunder_armor": {
+      "Atlas": "kit_5",
+      "Rect": [
+        778,
+        686,
+        364,
+        236
+      ]
+    },
+    "thunder_boots": {
+      "Atlas": "kit_5",
+      "Rect": [
+        1162,
+        686,
+        364,
+        236
+      ]
+    },
+    "shadow_wolf": {
+      "Atlas": "kit_6",
+      "Rect": [
+        10,
+        195,
+        364,
+        358
+      ]
+    },
+    "obsidian_knight": {
+      "Atlas": "kit_6",
+      "Rect": [
+        394,
+        195,
+        364,
+        358
+      ]
+    },
+    "abyss_beholder": {
+      "Atlas": "kit_6",
+      "Rect": [
+        778,
+        195,
+        364,
+        358
+      ]
+    },
+    "void_dragon": {
+      "Atlas": "kit_6",
+      "Rect": [
+        1162,
+        195,
+        364,
+        358
+      ]
+    },
+    "void_sword": {
+      "Atlas": "kit_6",
+      "Rect": [
+        10,
+        686,
+        364,
+        236
+      ]
+    },
+    "void_helmet": {
+      "Atlas": "kit_6",
+      "Rect": [
+        394,
+        686,
+        364,
+        236
+      ]
+    },
+    "void_armor": {
+      "Atlas": "kit_6",
+      "Rect": [
+        778,
+        686,
+        364,
+        236
+      ]
+    },
+    "void_boots": {
+      "Atlas": "kit_6",
+      "Rect": [
+        1162,
+        686,
+        364,
+        236
+      ]
+    },
+    "star_wing_lion": {
+      "Atlas": "kit_7",
+      "Rect": [
+        10,
+        195,
+        364,
+        358
+      ]
+    },
+    "sanctuary_dragon_guard": {
+      "Atlas": "kit_7",
+      "Rect": [
+        394,
+        195,
+        364,
+        358
+      ]
+    },
+    "star_crystal_colossus": {
+      "Atlas": "kit_7",
+      "Rect": [
+        778,
+        195,
+        364,
+        358
+      ]
+    },
+    "ancient_divine_dragon": {
+      "Atlas": "kit_7",
+      "Rect": [
+        1162,
+        195,
+        364,
+        358
+      ]
+    },
+    "divine_sword": {
+      "Atlas": "kit_7",
+      "Rect": [
+        10,
+        686,
+        364,
+        236
+      ]
+    },
+    "divine_helmet": {
+      "Atlas": "kit_7",
+      "Rect": [
+        394,
+        686,
+        364,
+        236
+      ]
+    },
+    "divine_armor": {
+      "Atlas": "kit_7",
+      "Rect": [
+        778,
+        686,
+        364,
+        236
+      ]
+    },
+    "divine_boots": {
+      "Atlas": "kit_7",
+      "Rect": [
+        1162,
+        686,
+        364,
+        236
+      ]
+    },
+    "sky": {
+      "Atlas": "evolution",
+      "Rect": [
+        8,
+        260,
+        240,
+        425
+      ]
+    },
+    "gale": {
+      "Atlas": "evolution",
+      "Rect": [
+        265,
+        255,
+        285,
+        430
+      ]
+    },
+    "solar": {
+      "Atlas": "evolution",
+      "Rect": [
+        560,
+        235,
+        365,
+        450
+      ]
+    },
+    "astral": {
+      "Atlas": "emperor",
+      "Rect": [
+        347,
+        1,
+        1324,
+        939
+      ]
+    },
+    "emperor_head": {
+      "Atlas": "emperor",
+      "Rect": [
+        695,
+        226,
+        360,
+        302
+      ]
+    },
+    "map_grassland": {
+      "Atlas": "map_grassland",
+      "Rect": [
+        0,
+        0,
+        1491,
+        1055
+      ]
+    },
+    "map_elven_forest": {
+      "Atlas": "map_elven_forest",
+      "Rect": [
+        0,
+        0,
+        1491,
+        1055
+      ]
+    },
+    "map_volcano": {
+      "Atlas": "map_volcano",
+      "Rect": [
+        0,
+        0,
+        1491,
+        1055
+      ]
+    },
+    "map_ice_crystal": {
+      "Atlas": "map_ice_crystal",
+      "Rect": [
+        0,
+        0,
+        1491,
+        1055
+      ]
+    },
+    "map_thunder_temple": {
+      "Atlas": "map_thunder_temple",
+      "Rect": [
+        0,
+        0,
+        1491,
+        1055
+      ]
+    },
+    "map_shadow_abyss": {
+      "Atlas": "map_shadow_abyss",
+      "Rect": [
+        0,
+        0,
+        1491,
+        1055
+      ]
+    },
+    "map_dragon_sanctuary": {
+      "Atlas": "map_dragon_sanctuary",
+      "Rect": [
+        0,
+        0,
+        1491,
+        1055
+      ]
+    },
+    "map_world": {
+      "Atlas": "map_world",
+      "Rect": [
+        0,
+        0,
+        1672,
+        941
+      ]
+    }
+  }
+}

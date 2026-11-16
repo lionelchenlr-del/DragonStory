@@ -1,0 +1,93 @@
+{
+  "version": 9,
+  "binaryPlace": "DragonAwakening-Atelier-v9.rbxl",
+  "binaryBytes": 109434657,
+  "binarySHA256": "bc1caa2efecf0ef480080d0437302ad19082d72266d07dc46610fec490811ac9",
+  "compiledLuauFiles": 653,
+  "productionScripts": 641,
+  "unchangedGameplayAndFlightModules": [
+    "Settings",
+    "Domain",
+    "ProfileStore",
+    "RequestGuard",
+    "CombatRules",
+    "TravelRules",
+    "TravelService",
+    "RideMotion",
+    "RidePresentation",
+    "MonsterMotion",
+    "World",
+    "Catalog",
+    "WorldData"
+  ],
+  "unchangedMonsterStatsEquipmentPricesAndLootWeights": true,
+  "originalArtHashesPreserved": 17,
+  "refinementRegression": {
+    "Monsters": 28,
+    "TranslucentSlime": true,
+    "BootSides": 14,
+    "Equipment": 30
+  },
+  "distributionRegression": {
+    "MaxChasers": 2,
+    "IdleCaveMin": 54.30272818436601,
+    "Spawns": 126,
+    "CaveMin": 65.30696746902278,
+    "LeashChecks": 12600,
+    "IdleSurfaceMin": 75.86122071007709,
+    "SurfaceMin": 90.13860821769734
+  },
+  "studioSingleClientIntegration": {
+    "Ok": true,
+    "ActualEquip": true,
+    "ActualPurchase": true,
+    "UnownedDenied": true,
+    "StartY": 14.607425689697266,
+    "UpY": 87.41603088378906,
+    "Spawns": 126,
+    "Tabs": 6,
+    "ActualKillReward": true,
+    "Presentation": {
+      "PreviewSwitches": 4,
+      "BakedVisible": 12,
+      "Samples": 260,
+      "UnifiedRider": true,
+      "BadCameraFrames": 0,
+      "UnifiedCamera": true,
+      "SpawnMapMarkers": 14,
+      "MaxSeatError": 0.0005459150415845215,
+      "MaxDragonError": 0,
+      "UnifiedDragon": true
+    },
+    "DownY": 48.777381896972656
+  },
+  "flightMotionRegression": {
+    "MaxPitchStep60": 0.017279920204432277,
+    "MaxTurnStep": 0.2989620683948661,
+    "RawPitchStep60": 0.18
+  },
+  "rulesTests": [
+    "PASS: 1881245 assertions: exact loot outcomes, economy, persistence, migration, travel, level 800, 62 models and geometry.",
+    "PASS: 155 actual TravelService integration checks (engine doubles)"
+  ],
+  "persistentNativeArtwork": true,
+  "preservedV8SpawnDistribution": true,
+  "all58BeforeAfterImagesVerified": true,
+  "all58ThumbnailsAndCoverageVerified": true,
+  "desktopManualTrial": {
+    "openedDeliveredV9Binary": true,
+    "viewedGameplayAndStarterArmor": true,
+    "mountedAscendedAndMoved": false,
+    "viewedMonsterAndEquipmentPreviews": true,
+    "nativePreviewAndOriginalSwitchVerified": true,
+    "deterministicAuthoringRegeneration": true,
+    "closedTemporaryPreviewWithoutSaving": true
+  },
+  "previewImages": "Separate renders of the authored model recipes, not Studio screenshots",
+  "originalArtFull3DMatch": false,
+  "handPaintedTexturesMatched": false,
+  "multiplayerVerified": false,
+  "mobilePerformanceVerified": false,
+  "cloudUploadsOrPublishing": false,
+  "localLinksVerified": 85
+}
